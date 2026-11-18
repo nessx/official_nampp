@@ -2,11 +2,6 @@
 
 Entorno de desarrollo local para Windows: Apache, Nginx, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached, Mailpit y PHP, con hosts virtuales `{nombre}.test`, HTTPS local y creación rápida de sitios.
 
-## Novedades
-
-- **Actualizaciones automáticas.** Nampp busca versiones nuevas en esta página de releases al abrirse y cada 6 horas. Si hay una más reciente, la descarga, comprueba su SHA-256 y la instala en silencio. Después se cierra y vuelve a abrirse ya actualizado.
-- **Buscar actualizaciones a mano** desde el menú de la bandeja o desde *Preferencias → Actualizaciones*.
-- **Opción para desactivarlas:** casilla *"Descargar e instalar automáticamente las nuevas versiones de Nampp"* en Preferencias.
 
 ## Instalación
 
